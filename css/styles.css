@@ -1,0 +1,48 @@
+@charset "utf-8";
+.roy {
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    display: block;
+    border-left: auto;
+    border-right: auto;
+}
+.my-navbar {
+	font-family: 'Rubik', sans-serif;
+	font-size: 135%;
+}
+.navbarlogo {
+	margin-left: auto;
+	margin-right: auto;
+}
+.contact {
+    text-decoration: underline;
+}
+.new {
+    color: #B40E10;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.contactgreen  {
+    color: #14DB21;
+    text-decoration: underline;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.contactgreen {
+    color: #179B16;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.green {
+    color: #1BD830;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#text {
+	margin: 50px;
+}
+.greennew {
+    color: #08FF00;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.contactlink {
+    text-decoration: underline;
+}
